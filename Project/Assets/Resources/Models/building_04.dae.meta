@@ -1,0 +1,228 @@
+fileFormatVersion: 2
+guid: 4c95aeeca82a24f8db80b3d444e8b19a
+timeCreated: 1511908876
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: balcony
+    100002: barrels
+    100004: barrels_front
+    100006: boards
+    100008: boards_001
+    100010: //RootNode
+    100012: building_walls
+    100014: chimney
+    100016: door_enter
+    100018: eneter_floor
+    100020: foundation_wall
+    100022: gutters_002
+    100024: gutters_003
+    100026: metal_cover
+    100028: roof
+    100030: roof_plate
+    100032: terrace
+    100034: window_005
+    100036: window_roof
+    400000: balcony
+    400002: barrels
+    400004: barrels_front
+    400006: boards
+    400008: boards_001
+    400010: //RootNode
+    400012: building_walls
+    400014: chimney
+    400016: door_enter
+    400018: eneter_floor
+    400020: foundation_wall
+    400022: gutters_002
+    400024: gutters_003
+    400026: metal_cover
+    400028: roof
+    400030: roof_plate
+    400032: terrace
+    400034: window_005
+    400036: window_roof
+    2300000: balcony
+    2300002: barrels
+    2300004: barrels_front
+    2300006: boards
+    2300008: boards_001
+    2300010: building_walls
+    2300012: chimney
+    2300014: door_enter
+    2300016: eneter_floor
+    2300018: foundation_wall
+    2300020: gutters_002
+    2300022: gutters_003
+    2300024: metal_cover
+    2300026: roof
+    2300028: roof_plate
+    2300030: terrace
+    2300032: window_005
+    2300034: window_roof
+    3300000: balcony
+    3300002: barrels
+    3300004: barrels_front
+    3300006: boards
+    3300008: boards_001
+    3300010: building_walls
+    3300012: chimney
+    3300014: door_enter
+    3300016: eneter_floor
+    3300018: foundation_wall
+    3300020: gutters_002
+    3300022: gutters_003
+    3300024: metal_cover
+    3300026: roof
+    3300028: roof_plate
+    3300030: terrace
+    3300032: window_005
+    3300034: window_roof
+    4300000: barrels_front
+    4300002: window_roof
+    4300004: door_enter
+    4300006: window_005
+    4300008: foundation_wall
+    4300010: building_walls
+    4300012: balcony
+    4300014: metal_cover
+    4300016: barrels
+    4300018: roof
+    4300020: roof_plate
+    4300022: boards
+    4300024: boards_001
+    4300026: eneter_floor
+    4300028: chimney
+    4300030: gutters_002
+    4300032: terrace
+    4300034: gutters_003
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: curb
+    second: {fileID: 2100000, guid: e0a31288da71e40ce9e2c933c1b3b864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: foundation_grey_brick
+    second: {fileID: 2100000, guid: 647ae56e2375d4a048a8f7ef1710aad1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal_grey
+    second: {fileID: 2100000, guid: a4a48d6b95a204424bf91f3940b676f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: parapet
+    second: {fileID: 2100000, guid: ddd651c7780ac44d8b978977e35fe98f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaster_grey
+    second: {fileID: 2100000, guid: ae7cf087dfc8a4bdfb78bd538140352d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plaster_white
+    second: {fileID: 2100000, guid: 2ce81a1c8d38d4d159ea820b1dbe7bab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: plate_white
+    second: {fileID: 2100000, guid: a75bd969068784218b16d680cb3cca53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_glass
+    second: {fileID: 2100000, guid: 0ff485eb5f9b94b49a42784028b01693, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_balls_brown
+    second: {fileID: 2100000, guid: 10403a97589db4805bb943da2f6a348f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wood_brown
+    second: {fileID: 2100000, guid: c96b0ff6704894a179de9f0b85cce454, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
