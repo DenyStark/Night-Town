@@ -1,9 +1,7 @@
 fileFormatVersion: 2
 guid: 4c95aeeca82a24f8db80b3d444e8b19a
-timeCreated: 1511908876
-licenseType: Free
 ModelImporter:
-  serializedVersion: 22
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: balcony
     100002: barrels
@@ -98,57 +96,58 @@ ModelImporter:
     4300032: terrace
     4300034: gutters_003
     9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: curb
-    second: {fileID: 2100000, guid: e0a31288da71e40ce9e2c933c1b3b864, type: 2}
+    second: {fileID: 2100000, guid: ebacac794e91d48c5a627f6b6e28ac6d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: foundation_grey_brick
-    second: {fileID: 2100000, guid: 647ae56e2375d4a048a8f7ef1710aad1, type: 2}
+    second: {fileID: 2100000, guid: 20a418d5eddd045618e8f894b3a88f26, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: metal_grey
-    second: {fileID: 2100000, guid: a4a48d6b95a204424bf91f3940b676f6, type: 2}
+    second: {fileID: 2100000, guid: c792688927e0f405a8d3f690d3a55c46, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: parapet
-    second: {fileID: 2100000, guid: ddd651c7780ac44d8b978977e35fe98f, type: 2}
+    second: {fileID: 2100000, guid: f60119956bfd647ce885ed717a289e5d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: plaster_grey
-    second: {fileID: 2100000, guid: ae7cf087dfc8a4bdfb78bd538140352d, type: 2}
+    second: {fileID: 2100000, guid: b531efb7a66ce4d77862e87d54709a09, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: plaster_white
-    second: {fileID: 2100000, guid: 2ce81a1c8d38d4d159ea820b1dbe7bab, type: 2}
+    second: {fileID: 2100000, guid: 911725dc63862436fb0742f7c0387daf, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: plate_white
-    second: {fileID: 2100000, guid: a75bd969068784218b16d680cb3cca53, type: 2}
+    second: {fileID: 2100000, guid: 4eca8814feb3f445ca4973f5a7d490e6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: window_glass
-    second: {fileID: 2100000, guid: 0ff485eb5f9b94b49a42784028b01693, type: 2}
+    second: {fileID: 2100000, guid: 0b396001e430b4fb7bc2a6624331f599, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wood_balls_brown
-    second: {fileID: 2100000, guid: 10403a97589db4805bb943da2f6a348f, type: 2}
+    second: {fileID: 2100000, guid: 7f98f4c32bb9141aab1912b3682bf182, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: wood_brown
-    second: {fileID: 2100000, guid: c96b0ff6704894a179de9f0b85cce454, type: 2}
+    second: {fileID: 2100000, guid: f0f79d9942ae440a0bec29ed9a0df2f3, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
@@ -167,6 +166,7 @@ ModelImporter:
     animationRetargetingWarnings: 
     animationDoRetargetingWarnings: 0
     importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
     animationRotationError: 0.5
     animationPositionError: 0.5
@@ -191,11 +191,15 @@ ModelImporter:
     optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
